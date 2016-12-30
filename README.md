@@ -5,11 +5,11 @@ Draftjs
 #Mô tả dự án trên github
 -----------------------------------------------------------------
 #Hướng dẫn sử dụng
-
+`````
 $ git clone git@github.com:Haru-kun/Draftjs.git
 $ cd Draftjs
 $ npm install
-
+`````
 
 
 ------------------------------------------------------------------
