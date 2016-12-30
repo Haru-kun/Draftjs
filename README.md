@@ -6,9 +6,9 @@ Draftjs
 -----------------------------------------------------------------
 #Hướng dẫn sử dụng
 
-git clone git@github.com:Haru-kun/Draftjs.git
-cd Draftjs
-npm install
+$ git clone git@github.com:Haru-kun/Draftjs.git
+$ cd Draftjs
+$ npm install
 
 
 
