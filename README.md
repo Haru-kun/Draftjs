@@ -6,9 +6,7 @@
 #Hướng dẫn sử dụng
 
  ```````````
- $git clone git@github.com:Haru-kun/Draftjs.git
- $cd Draftjs
- $npm install
+Giải nén file AppData.rar để sử dụng SQL
 ``````````````
 ------------------------------------------------------------------
 #Yêu cầu
