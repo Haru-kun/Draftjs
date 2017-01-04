@@ -1,12 +1,12 @@
 #Mô tả
  Đồ án môn học "Công cụ phát triển phần mềm"
 #Đề tài
- Draftjs
+ Tìm hiểu về Daftjs
 #Mô tả dự án trên github
 #Hướng dẫn sử dụng
 
  ```````````
-Giải nén file AppData.rar để sử dụng SQL
+Giải nén file AppData.rar (Extract Here) để sử dụng SQL (cơ sở dữ liệu)
 ``````````````
 ------------------------------------------------------------------
 #Yêu cầu
